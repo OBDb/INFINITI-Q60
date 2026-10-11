@@ -1,0 +1,12 @@
+references:
+  - "https://en.wikipedia.org/wiki/Infiniti_Q60"
+
+generations:
+  - name: "First Generation (CV36)"
+    start_year: 2014
+    end_year: 2015
+    description: "The renamed G37 coupe and convertible with the 3.7 L VQ37VHR."
+  - name: "Second Generation (CV37)"
+    start_year: 2017
+    end_year: 2022
+    description: "With 2.0 L turbo and 3.0 L VR30DDTT twin-turbo engines, sharing its platform with the Q50."
